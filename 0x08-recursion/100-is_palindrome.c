@@ -6,7 +6,7 @@ int comparator(char *s, int n1, int n2);
   * @s: string
   * Return: the length of s
   */
-iint _strlen_recursion(char *s)
+int _strlen_recursion(char *s)
 {
 	if (*s == '\0')
 		return (0);
