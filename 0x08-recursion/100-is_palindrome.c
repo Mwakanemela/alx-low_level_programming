@@ -2,11 +2,11 @@
 
 int comparator(char *s, int n1, int n2);
 /**
-  * _srtlen_recursion - returns the length of a string
+  * _strlen_recursion - returns the length of a string
   * @s: string
   * Return: the length of s
   */
-int _strlen_recursion(char *s)
+iint _strlen_recursion(char *s)
 {
 	if (*s == '\0')
 		return (0);
