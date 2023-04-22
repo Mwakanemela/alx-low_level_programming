@@ -2,7 +2,7 @@
 
 /**
   * array_range - entry pint
-  * @min - minimum value
+  * @min:  minimum value
   * @max: maximum value
   * Return: int value
   */
