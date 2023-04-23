@@ -4,7 +4,7 @@
 
 /**
   * _strlen - find string length
-  * @str: string
+  * @s: string
   * Return: length of string
   */
 int _strlen(char *s)
@@ -19,7 +19,7 @@ int _strlen(char *s)
 }
 
 /**
-  * strcpy - string copy
+  * _strcpy - string copy
   * @dest: destination
   * @src: source
   * Return: destination
